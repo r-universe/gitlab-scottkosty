@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bootstrap",
+    "oncran": true
+  },
+  {
+    "package": "monreg",
+    "oncran": true
+  }
+]
